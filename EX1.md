@@ -26,7 +26,7 @@ RENAME: This is used to rename an object existing in the database.
 create table student(rollno int,name char(20),age int,addr varchar(20),phoneno int);
 ```
 ### OUTPUT:
-![image]("D:\DBMS\G2_DBMS\1.1.png")
+![image]("https://github.com/Kadinsamson/G2_DBMS/blob/main/1.1.png")
 ![image](1.2.png)
 
 ### 2) Change the above student table by adding another attribute department
